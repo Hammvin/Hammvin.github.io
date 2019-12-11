@@ -1,0 +1,20 @@
+#text{
+    text-align: center;
+}
+
+.name{
+/*background-image: ;*/
+}
+
+.intro{
+    /*border-left-style: solid;*/
+    /*border-right-style: solid;*/
+    border-color: darkred;
+    font-family: "DejaVu Serif Condensed";
+    font-style: oblique;
+    color: white;
+}
+
+.greet{
+    margin-top: 200px;
+}
